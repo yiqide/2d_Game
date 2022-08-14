@@ -1,0 +1,17 @@
+{
+  "pkgName": [
+    {
+      "pkgName": "sdada",
+      "AllAB": [
+        {
+          "path": "Assets/Editor/AB包打包机/data.json"
+        }
+      ]
+    },
+    {
+      "pkgName": "",
+      "AllAB": []
+    }
+  ],
+  "path": "/Users/ddw/Project/UnityTools/你好"
+}
