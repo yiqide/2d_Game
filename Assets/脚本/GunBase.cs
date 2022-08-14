@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public abstract class GunData
+public abstract class GunBase
 {
     public abstract string Name{ get; internal set; }
     public abstract string ID { get; internal set; }

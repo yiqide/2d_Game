@@ -8,7 +8,7 @@ using UnityEngine;
 
 public class GunInstance : SingleMonoBase<GunInstance>
 {
-    public GunData GunData;
+    public GunBase GunBase;
     [SerializeField] private float rotateSpeed;
     [SerializeField] private SpriteRenderer spriteRenderer;
     public void SetDir(Vector2 dir)

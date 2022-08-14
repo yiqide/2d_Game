@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Shotgun : GunData
+public class Shotgun : GunBase
 {
     public override string Name { get; internal set; }
     public override string ID { get; internal set; }
